@@ -1,0 +1,10 @@
+h1 {
+  font-size: 100px;
+}
+
+button.btn.btn-primary {
+padding: 5px;
+background-color: pink;
+margin: 3px;
+border: rgb(180, 67, 86) 2px;
+}
